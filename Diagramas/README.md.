@@ -1,1 +1,25 @@
 Carpeta para almacenar los diagramas del proyecto.
+# Proyecto de Lógica
+
+## Descripción
+Este repositorio contiene los diagramas desarrollados para el proyecto de la materia de Lógica. En él se representan diferentes etapas del análisis y diseño de una solución informática, utilizando diagramas de casos de uso, arquitectura y flujo de procesos.
+
+## Contenido del repositorio
+
+### 1. Diagrama de Casos de Uso
+Este diagrama representa la interacción entre los usuarios y el sistema, identificando los actores principales, sus funciones y las acciones que pueden realizar dentro del sistema.
+
+Permite comprender los requerimientos y la relación entre los usuarios y las diferentes funcionalidades planteadas.
+
+### 2. Diagrama de Arquitectura
+Este diagrama muestra la estructura general del sistema, representando sus componentes principales, la organización del software y la relación entre los elementos que forman parte de la solución propuesta.
+
+Su objetivo es visualizar cómo está compuesto el sistema y cómo se conectan sus diferentes partes.
+
+### 3. Diagrama de Flujo
+Este diagrama representa de manera gráfica la secuencia lógica de un proceso mediante símbolos y conectores, mostrando las decisiones, operaciones y pasos necesarios para ejecutar el algoritmo planteado.
+
+El diagrama de flujo permite comprender la lógica del procedimiento antes de realizar la implementación en código.
+
+## Objetivo del proyecto
+Aplicar los fundamentos de lógica y programación mediante el análisis, diseño y representación gráfica de una solución informática, facilitando la comprensión del funcionamiento del sistema antes de su desarrollo.
