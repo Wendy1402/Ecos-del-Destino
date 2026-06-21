@@ -1,1 +1,0 @@
-print("Ecos del Destino")
