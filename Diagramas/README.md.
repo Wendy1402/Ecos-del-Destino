@@ -1,25 +1,136 @@
-Carpeta para almacenar los diagramas del proyecto.
-# Proyecto de Lógica
+# 🎮 ECOS DEL DESTINO
 
-## Descripción
-Este repositorio contiene los diagramas desarrollados para el proyecto de la materia de Lógica. En él se representan diferentes etapas del análisis y diseño de una solución informática, utilizando diagramas de casos de uso, arquitectura y flujo de procesos.
+## Proyecto Integrador - Lógica de Programación
 
-## Contenido del repositorio
+*Estudiante:* Wendy Pérez 
 
-### 1. Diagrama de Casos de Uso
-Este diagrama representa la interacción entre los usuarios y el sistema, identificando los actores principales, sus funciones y las acciones que pueden realizar dentro del sistema.
+*Lenguaje de programación:* Python
 
-Permite comprender los requerimientos y la relación entre los usuarios y las diferentes funcionalidades planteadas.
+*Entorno de desarrollo:* Visual Studio Code
 
-### 2. Diagrama de Arquitectura
-Este diagrama muestra la estructura general del sistema, representando sus componentes principales, la organización del software y la relación entre los elementos que forman parte de la solución propuesta.
+*Control de versiones:* GitHub
 
-Su objetivo es visualizar cómo está compuesto el sistema y cómo se conectan sus diferentes partes.
+*Fecha:* 28 de Junio de 2026
 
-### 3. Diagrama de Flujo
-Este diagrama representa de manera gráfica la secuencia lógica de un proceso mediante símbolos y conectores, mostrando las decisiones, operaciones y pasos necesarios para ejecutar el algoritmo planteado.
+---
 
-El diagrama de flujo permite comprender la lógica del procedimiento antes de realizar la implementación en código.
+# Descripción del proyecto
 
-## Objetivo del proyecto
-Aplicar los fundamentos de lógica y programación mediante el análisis, diseño y representación gráfica de una solución informática, facilitando la comprensión del funcionamiento del sistema antes de su desarrollo.
+*Ecos del Destino* es un videojuego narrativo desarrollado en Python cuyo objetivo es demostrar cómo las decisiones del jugador pueden modificar el desarrollo de una historia interactiva.
+
+El jugador despierta en una ciudad abandonada sin recordar quién es. Durante la exploración deberá recorrer distintos escenarios, reunir pistas y descubrir la verdad detrás de un experimento tecnológico que provocó el abandono de la ciudad.
+
+Dependiendo de las decisiones tomadas y de la cantidad de pistas obtenidas, el jugador podrá acceder a diferentes finales.
+
+Este proyecto fue desarrollado como parte del Proyecto Integrador de la asignatura *Lógica de Programación*, aplicando los conocimientos adquiridos durante las cuatro unidades del curso.
+
+---
+
+# Objetivo del sistema
+
+Desarrollar un videojuego narrativo interactivo que permita aplicar los fundamentos de la programación mediante una historia basada en decisiones, promoviendo además la reflexión sobre el impacto de las nuevas tecnologías en la sociedad.
+
+---
+
+# Problema que resuelve
+
+El proyecto busca representar de forma interactiva cómo las decisiones relacionadas con el desarrollo y uso de la tecnología pueden generar diferentes consecuencias.
+
+A través del videojuego, el usuario comprende que cada elección modifica el desarrollo de la historia, mostrando la importancia de la responsabilidad en la creación y utilización de soluciones tecnológicas.
+
+---
+
+# Funcionalidades
+
+- Registro del nombre del jugador.
+- Historia interactiva basada en decisiones.
+- Exploración de diferentes escenarios.
+- Sistema de recolección de pistas.
+- Rutas alternativas dentro del juego.
+- Hospital, bosque y laboratorio como escenarios principales.
+- Tres finales diferentes según las decisiones del jugador.
+- Validación de opciones ingresadas por el usuario.
+- Organización modular del código mediante funciones.
+
+---
+
+# Tecnologías utilizadas
+
+- Python
+- Visual Studio Code
+- GitHub
+
+---
+
+# Estructura del proyecto
+
+ECOS_DEL_DESTINO/
+
+├── ecos_del_destino.py
+
+├── README.md
+
+├── Diagrama_de_Flujo.pdf
+
+├── Diagrama_de_Casos_de_Uso.pdf
+
+├── Arquitectura_del_Sistema.pdf
+
+└── Presentación_Final.pdf
+
+---
+
+# Lógica implementada
+
+Durante el desarrollo del proyecto se aplicaron los siguientes conceptos de programación:
+
+- Variables
+- Tipos de datos
+- Entrada y salida de información
+- Estructuras condicionales (if, elif, else)
+- Ciclos (while)
+- Funciones (def)
+- Modularización del código
+- Validación de datos
+
+---
+
+# Impacto tecnológico
+
+El proyecto plantea una reflexión sobre las consecuencias que puede tener el desarrollo de tecnologías sin un adecuado control o responsabilidad ética.
+
+Aunque se trata de un videojuego, la historia representa situaciones relacionadas con la toma de decisiones y la importancia de utilizar la tecnología de manera responsable.
+
+---
+
+# Cómo ejecutar el proyecto
+
+1. Descargar el repositorio.
+2. Abrir el archivo ecos_del_destino.py en Visual Studio Code o cualquier editor compatible con Python.
+3. Ejecutar el programa.
+4. Seguir las instrucciones que aparecen en pantalla.
+
+---
+
+# Aprendizajes obtenidos
+
+Este proyecto permitió fortalecer habilidades relacionadas con:
+
+- Pensamiento lógico.
+- Resolución de problemas.
+- Organización del código.
+- Desarrollo de software.
+- Uso de GitHub para control de versiones.
+- Diseño de programas interactivos.
+
+---
+
+# Autor
+
+*Wendy PJ*
+
+Proyecto desarrollado para la asignatura *Lógica de Programación*.
+
+Universidad Internacional del Ecuador (UIDE)
+
+Año 2026
